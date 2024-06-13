@@ -26,7 +26,7 @@ Due to the size of the files and data, we couldn't upload them directly to GitHu
 ### Motivation and Objectives
 - **Problem:** Melanoma accounts for 75% of deaths due to skin cancer.
 - **Objective:** Assist dermatologists in accurately identifying melanoma lesions.
-- **Data Source:** Kaggle competition organized by SIIM-ISIC, providing images of moles and contextual patient information (https://www.kaggle.com/c/siim-isic-melanoma-classification/overview).
+- **Data Source:** Kaggle competition organized by SIIM-ISIC, providing images of moles and contextual patient information ([SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification/overview)).
 
 ## 2. Original Dataset
 
